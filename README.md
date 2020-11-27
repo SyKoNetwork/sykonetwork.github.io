@@ -2,15 +2,15 @@
 
 ## Discord
 ```
-https://discord.syko.network
+[Discord](https://discord.syko.network)
 ```
 
 ### MCPEDL
 ```
-https://mcpedl.com/user/sykosofi
+[MCPEDL](https://mcpedl.com/user/sykosofi)
 ```
 
 ### Pateon
 ```
-https://www.patreon.com/SyKoSoFi
+[Pateon](https://www.patreon.com/SyKoSoFi)
 ```
