@@ -1,24 +1,16 @@
 # sykonetwork.github.io
 
-## Project setup
+## Discord
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+https://discord.syko.network
 ```
 
-### Compiles and minifies for production
+### MCPEDL
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+https://mcpedl.com/user/sykosofi
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Pateon
+```
+https://www.patreon.com/SyKoSoFi
+```
