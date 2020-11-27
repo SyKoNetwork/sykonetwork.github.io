@@ -7,4 +7,4 @@
 ### [MCPEDL](https://mcpedl.com/user/sykosofi)
 
 
-### [Pateon](https://www.patreon.com/SyKoSoFi)
+### [Patreon](https://www.patreon.com/SyKoSoFi)
