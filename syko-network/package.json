@@ -10,6 +10,7 @@
   "dependencies": {
     "@syncfusion/ej2-vue-grids": "^19.1.57",
     "core-js": "^3.6.5",
+    "travis": "^0.1.1",
     "v-pagination-3": "^0.1.2",
     "vue": "^3.0.0",
     "vue-google-adsense": "^1.9.2",

@@ -21,7 +21,13 @@ const routes = [
     name: "Creations",
     component: () =>
       import(/* webpackChunkName: "about" */ "../views/Creations.vue"),
-  }
+  },
+  {
+    path: "/TLT",
+    name: "TLT",
+    component: () =>
+      import("../views/Addons/TLT.vue"),
+  },
 ];
 
 const router = createRouter({
