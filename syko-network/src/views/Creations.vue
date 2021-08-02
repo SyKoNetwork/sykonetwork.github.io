@@ -3,9 +3,8 @@
     <Navbar />
     <div class="container d-flex align-items-start flex-column">
       <h1>Creations</h1>
-      <p>
-        bridge. has been used to create various awesome projects. Here are some
-        of our favorites...
+      <p> Here are some
+        of our awesome projects....
       </p>
       <div class="container d-flex align-items-center row">
         <div class="m-1">
